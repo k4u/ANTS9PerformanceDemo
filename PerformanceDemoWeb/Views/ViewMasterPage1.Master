@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <link href="/Content/Site.css" rel="stylesheet"/>
+</head>
+<body>
+    <h2>Application Performance Demo</h2>
+    <div class="menu">
+        <ul class="ui-menu">
+            <li><a href="/">Home</a></li>
+            <li><a href="/Home/About">About</a></li>
+            <li><a href="/Demo">Demos</a></li>
+        </ul>
+    </div>
+    
+    <div>
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>

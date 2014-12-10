@@ -1,0 +1,10 @@
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\bin\Debug\LibraryData.dll.config
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\bin\Debug\LibraryData.dll
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\bin\Debug\LibraryData.pdb
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\bin\Debug\EntityFramework.dll
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\bin\Debug\EntityFramework.xml
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\obj\Debug\LibraryData.csprojResolveAssemblyReference.cache
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\obj\Debug\LibraryData.dll
+C:\Users\Mitch\documents\visual studio 2013\Projects\PerformanceDemo\LibraryData\obj\Debug\LibraryData.pdb
